@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Trying</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_segunda__actividad">Segunda_Actividad</string>
+    <string name="Siguiente">Entrar</string>
+    <string name="informacion">Informacion</string>
+    <string name="masInfor">Mas Informacion</string>
+    <string name="segunda__actividad">Perfil Usuario</string>
+    <string name="Password">Ingresa tu Password</string>
+    <string name="Usuario">Ingresa tu Usuario</string>
+</resources>
